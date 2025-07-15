@@ -68,7 +68,7 @@ function Projects() {
               isBlog={false}
               title="Portfolio"
               description="A personal portfolio built using React, HTML, CSS, and JavaScript to showcase projects, skills, and contact information. It features a responsive design, smooth navigation, and dynamic components for a modern and interactive user experience."
-              ghLink=""
+              ghLink="https://github.com/Khadija-Saifee/portfolio"
             />
           </Col>
         </Row>
