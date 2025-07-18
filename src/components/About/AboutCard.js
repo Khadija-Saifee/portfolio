@@ -31,7 +31,11 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
+<<<<<<< HEAD
             "Better Live Your Life"{" "}
+=======
+            "Better Live Your Life!"{" "}
+>>>>>>> 6e1bab21e4056a58803980318e592889a33f7e87
           </p>
           <footer className="blockquote-footer">SZA</footer>
         </blockquote>
